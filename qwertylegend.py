@@ -9,8 +9,9 @@ while game:
             game = False
     
     okno.fill((255,0,0))
-
+    
           
           
           
     display.update()
+#
