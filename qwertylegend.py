@@ -13,4 +13,4 @@ while game:
           
           
           
-display.update()
+    display.update()
